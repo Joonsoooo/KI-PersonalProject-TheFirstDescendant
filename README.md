@@ -42,14 +42,6 @@
 
 
 ## 사용 기술
-- **Unreal Engine 5.2
+- **Unreal Engine 5.2**
 - **Blueprints**
-
----
-
-## 협업 툴
-- **GitHub**
-- **Fork**
-- **Jira**
-
-
+- 
