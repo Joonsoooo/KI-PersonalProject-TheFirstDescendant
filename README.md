@@ -1,5 +1,5 @@
 ## p
-![Image](https://github.com/user-attachments/assets/8d29046f-e2ba-4cba-a19c-fb920f7effd7)
+![Image](https://github.com/user-attachments/assets/c037485b-50d6-4afd-af89-2d32a187c2d8)
 
 > **더 퍼스트 디센던트 모작 개인 프로젝트**  
 > **개발 기간**: 2024년 10월 7일 ~ 11월 8일 (약 5주)  
